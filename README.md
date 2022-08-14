@@ -1,4 +1,4 @@
-# The Performance of a Multi-Linear Regression  Model in Tackling Face Alignment.
+# An investigation into the Performance of a Multi-Linear Regression  Model in Tackling Face Alignment.
 
 ## Introduction:
 The task of face alignment is described as identifying the geometric structure of faces in digital images. Given the location and size of a face, the task is to determine the shape of various facial components.<sup>1</sup> In this task, a set of 42 points are used to identify the facial landmarks of the face. This report investigates the performance and design of a multi-linear regression model that is used to predict these points. The research question that this report aims to solve is, therefore, **“How suitable is a multi-linear regression model for face alignment?”**. 
