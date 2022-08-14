@@ -5,8 +5,6 @@ The task of face alignment is described as identifying the geometric structure o
 
 A way to generate optimal key points used by SIFT for feature descriptor generation is first looked at. The report then examines how these feature descriptors are used as input to each linear regressor. Qualitative results through success and failure cases are then analyzed, followed by quantitative results that evaluate different accuracy measures and plots that are used to examine how the model performs.
 
-As the secondary task, a lip color modification system that utilizes the lip’s facial landmarks is created. Justifications for the system’s design choices are first given before qualitative results are examined to understand the system’s behavior with different types of images.
-
 ## Methods:
 
 <img width="321" alt="image" src="https://user-images.githubusercontent.com/84683922/184535547-b8404370-745c-4125-ab11-e92b6b3da709.png">
