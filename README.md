@@ -77,7 +77,7 @@ The reasons for failure were also identified, these were facial feature misinter
 
 ## Appendix:
 ### Section 1 - Full Code:
-See CV_Report.ipynb file.
+See Face_Alignment.ipynb file.
 
 ### Section 2 - Predicted Points’ boxplots:
 
